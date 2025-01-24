@@ -96,7 +96,7 @@
         <div class="image-wrapper">
             <img src="https://via.placeholder.com/600x300" alt="Input Devices">
         </div>
-
+https://github.com/pranay6675/P/blob/28f326b96ec85631bf1068a3985166a783c45d66/device%20p.jfif
         <h3>2. Output Devices</h3>
         <p>Output devices convey information from the computer to the user. Common output devices include:</p>
         <ul>
