@@ -75,12 +75,11 @@
         <h1>Peripheral Devices</h1>
         <p>An Insight into Computer Peripheral Devices</p>
     </header>
-    ![image alt](https://github.com/pranay6675/P/blob/31ccb5aa6ee38568718a8cdd1973f0b1fb3e2df6/Screenshot_20250124_101513_Google.jpg)
     <section>
         <h2>Introduction</h2>
         <p>Peripheral devices are essential components that connect to a computer, allowing users to interact with the system or enhance its capabilities. These devices can be categorized into input, output, and storage peripherals, each playing a distinct role in computing.</p>
         <div class="image-wrapper">
-            <img src="https://via.placeholder.com/800x400" alt="Peripheral Devices">
+         ![image alt](https://github.com/pranay6675/P/blob/main/Screenshot_20250124_101513_Google.jpg?raw=true)
         </div>
     </section>
 
