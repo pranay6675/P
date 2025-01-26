@@ -79,7 +79,7 @@
         <h2>Introduction</h2>
         <p>Peripheral devices are essential components that connect to a computer, allowing users to interact with the system or enhance its capabilities. These devices can be categorized into input, output, and storage peripherals, each playing a distinct role in computing.</p>
         <div class="image-wrapper">
-         ![image alt](https://github.com/pranay6675/P/blob/main/Screenshot_20250124_101513_Google.jpg?raw=true)
+         
         </div>
     </section>
 
@@ -95,7 +95,6 @@
         <div class="image-wrapper">
             <img src="https://via.placeholder.com/600x300" alt="Input Devices">
         </div>
-https://github.com/pranay6675/P/blob/28f326b96ec85631bf1068a3985166a783c45d66/device%20p.jfif
         <h3>2. Output Devices</h3>
         <p>Output devices convey information from the computer to the user. Common output devices include:</p>
         <ul>
